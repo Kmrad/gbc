@@ -21,3 +21,5 @@
 - Friday
   - 12:00-[Comp1238- Introduction to data management](https://learn.georgebrown.ca/d2l/home/1238)
   - 15:00-[Comp1151 - IT Essentials](https://learn.georgebrown.ca/d2l/home/1151)
+ 
+    
